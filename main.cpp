@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 int main() {
+    cout << "Simon Enteria";
+    cout << "202411638";
     cout << "Student Grade System" << endl;
     cout << "Welcome to our group project!" << endl;
     cout << "\nMAIN MENU" << endl;
